@@ -8,6 +8,7 @@ import javax.swing.JOptionPane;
 
 public class CRUD {
 	
+
 	static List<String> opcion = new ArrayList<>();
 
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
